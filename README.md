@@ -16,4 +16,8 @@ Rating: A star rating system (up to 5 stars) for users to review the form.
 
 Message Box: A textarea for users to type a message or feedback. The form also includes two key buttons:
 
-Submit: After filling out the form, clicking this button redirects the user to my GitHub profile. Reset: This button clears all the form fields, allowing the user to correct any mistakes before submitting. This project serves as a simple yet functional example of HTML form creation, and can be used as a starting point for more complex form-based applications.
+Submit: After filling out the form, clicking this button redirects the user to my GitHub profile. 
+
+Reset: This button clears all the form fields, allowing the user to correct any mistakes before submitting. 
+
+This project serves as a simple yet functional example of HTML form creation, and can be used as a starting point for more complex form-based applications.
